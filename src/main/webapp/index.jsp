@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Page Title</title>
+	<title>Amar Practice session.....!</title>
 </head>
 
 <body>
