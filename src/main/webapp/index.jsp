@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Amar Practice session.....!</title>
+	<title>jenkinsJob</title>
 </head>
 
 <body>
