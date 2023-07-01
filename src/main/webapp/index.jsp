@@ -8,7 +8,7 @@
 	<h1>This is a frist deployment in our jenkins job server</h1>
 	
 	
-	<h2>Welcome To Newtomcat session</h2>
+	<h2>Welcome To jenkins project</h2>
 	<form>
 
 		<p>
